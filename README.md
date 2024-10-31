@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahesh Kumar 
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C, C++, Data structure & algorithm, Java and Python.
+- 🌱 I’m currently learning C, C++, Data structure & algorithm, machine learning, sql, Java and Python.
 - 💞️ I’m looking to collaborate on an open-source project. 
 - 📫 How to reach me maheshkumarssce@gmail.com...
 
